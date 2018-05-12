@@ -1,0 +1,28 @@
+_repo: Ruth-Fielding-in-Moving-Pictures--Or-Helping-the-Dormitory-Fund_14635
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Emerson, Alice B.
+    gutenberg_agent_id: '1619'
+    url: http://www.gutenberg.org/2009/agents/1619
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2005-01-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14635'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Boarding school students -- Juvenile fiction'
+- !lcsh 'Motion picture authorship -- Juvenile fiction'
+- !lcsh 'Fielding, Ruth (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Schools -- Juvenile fiction'
+title: Ruth Fielding in Moving Pictures; Or, Helping the Dormitory Fund
+url: http://www.gutenberg.org/ebooks/14635
